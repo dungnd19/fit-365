@@ -28,3 +28,5 @@ mvn spring-boot:run
 ```
 
 Database connection settings can be adjusted in `backend/src/main/resources/application.properties`.
+
+See [docs/INSTALL.md](docs/INSTALL.md) for full installation and running instructions.
